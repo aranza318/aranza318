@@ -38,7 +38,7 @@ This one is a back end project and is only adviable for local host by now
 - 👀 I’m interested in making videos, photography, art and discovering new music.
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on React projects.
-- ⚡ Fun fact: I ;ove rainy days and I'm a swiftie :)
+- ⚡ Fun fact: I love rainy days and I'm a swiftie :)
 
 <!---
 aranza318/aranza318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
