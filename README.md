@@ -34,6 +34,7 @@ This one is a back end project and is only adviable for local host by now
 <img src="https://i.ibb.co/FbP0BSN/Captura-de-pantalla-2024-02-23-160734.png" alt="Okuna" border="0" width="700px">
 ### [Source code 💻](https://github.com/aranza318/LocalHostVersion)
 
+### Visit my personal portfolio [HERE](https://aranza-personal-portfolio.netlify.app/)
 
 - 👀 I’m interested in making videos, photography, art and discovering new music.
 - 🌱 I’m currently learning SQL.
